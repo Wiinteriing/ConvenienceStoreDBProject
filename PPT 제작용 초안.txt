@@ -32,3 +32,6 @@ DB: MySQL에서 제공되는 ??? 엔진
 5. 테이블 명세서
 6. SQL문
 7. 환경 구축 및 DB 시연
+
+
+https://docs.google.com/presentation/d/1Jnx0hTzVfRt4kvOLuWRQlKPTfAFRbLVPtuSUel_XtmA/edit?usp=sharing
